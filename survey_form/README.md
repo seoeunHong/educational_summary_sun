@@ -4,9 +4,10 @@
 
 [Demo Link](https://conjointly.online/study/481409/gekhi3upne)
 
-QR Code
+QR Code:
 
-![qrcode](/Users/seoeunhong/Downloads/qrcode.png)
+![qrcode](https://github.com/seoeunHong/educational_summary_sun/assets/75988952/f6ca0577-4fe8-43a0-b7c3-babeabd9584c)
+
 
 ## Tool
 
